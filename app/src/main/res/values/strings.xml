@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="show_text">Pokaz liczbe czujnikow</string>
+    <string name="sensor_count">Liczba czujnikow: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="wrong_sensor">Nieobslugiwany sensor</string>
+    <string name="light_sensor_label">Czujnik światła\n%f lx</string>
+    <string name="accelerometer_sensor_label">Akcelerometr\nx: %f m/s^2\ny: %f m/s^2\nz: %f m/s^2</string>
+    <string name="get_localization">Pobierz lokalizację</string>
+    <string name="localization_text">Wciśnij przycisk, aby pobrać ostatnią lokalizację</string>
+    <string name="location_permission_denied">Odmowa dostępu do lokalizacji</string>
+    <string name="location_text">"Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$tr"</string>
+    <string name="no_location">Nie udalo się odnaleźć lokalizacji</string>
+    <string name="get_adress">Pobierz adres</string>
+    <string name="address_text">"Adres: %1$s \n Czas: %2$tr"</string>
+    <string name="service_not_aviable">Serwis niedostępny</string>
+    <string name="no_adress_found">Nie znaleziono adresu</string>
+</resources>
